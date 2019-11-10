@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwo0DBtyr9EunqcaejBSnjgAAAAACAAAAAAAQZgAAAAEAACAAAACxn795IXf9UTXJW31sgW4TvV55KqSav7ePlZsM43ZuhwAAAAAOgAAAAAIAACAAAAAvxGb9bNdB7iYgO4LxPUtIE7jNygj4hsb8bp9pfO4eNSAAAABLfBlIc+IYHZ1sAwH0hqMjWjAuubXnwT3aIFCwXEg3bEAAAABEDTqlYepuUU0pOb1OeQe0zExnd9hBqrOAS6X+U+MTBlkjJh2VRw7EWm0vcRoL9N1AVYVdqWUkr6UZjdOXXRRy</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.site4now.net/practica3</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
