@@ -1,3 +1,3 @@
 # Preview
-![](Mustacchio/Mustacchio/docs/screenshot1.png)
-![](Mustacchio/Mustacchio/docs/screenshot2.png)
+![](Mustacchio/Mustacchio/docs/screenshot1.PNG)
+![](Mustacchio/Mustacchio/docs/screenshot2.PNG)
